@@ -1,13 +1,16 @@
 # Buttons
 
-Buttons are styled links that can lead to local page or external link.
+What the icons mean
 
 ## Example
 
-```tpl
-{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
-{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
-```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
 
-{{< button relref="/" >}}Get Home{{< /button >}}
-{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+<script src="https://kit.fontawesome.com/4626f30439.js" crossorigin="anonymous"></script>
+
+```tpl
+An image
+```
+<i class="fa-solid fa-user"></i>
+
+ 
