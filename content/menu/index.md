@@ -2,13 +2,11 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
-- [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-  - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
+- [**How to start**]({{< relref "/docs/example/start" >}})
+- [**How to play**]({{< relref "/docs/example/run" >}})
+- [**How to view**]({{< relref "/docs/example/view" >}})
+- [**How to study**]({{< relref "/docs/example/study" >}})
+- [**Overall Introduction**]({{< relref "/docs/example" >}})
 <br />
 
 - **Shortcodes**

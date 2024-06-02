@@ -3,6 +3,6 @@ title: Introduction
 type: docs
 ---
 
-# How it works
+# What's it for?
 
-This game lets you find out how capitalism works.  
+This game will help you find out how capitalism works.  
