@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menuses on Capitalism - the Game</title>
+    <link>//localhost:1313/menus/</link>
+    <description>Recent content in Menuses on Capitalism - the Game</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 11:02:07 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/menus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menu</title>
+      <link>//localhost:1313/menus/menu/</link>
+      <pubDate>Sun, 02 Jun 2024 11:02:07 +0100</pubDate>
+      <guid>//localhost:1313/menus/menu/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
