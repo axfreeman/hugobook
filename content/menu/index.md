@@ -9,5 +9,5 @@ headless: true
 - [**Overall Introduction**]({{< relref "/docs/example" >}})
 <br />
 
-- **Shortcodes**
+- **Shirtcodes**
 <br />

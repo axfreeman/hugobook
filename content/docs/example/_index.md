@@ -1,9 +1,9 @@
 ---
-title: "Welcome to the game of life"
+title: "Welcome to the game of capitalism"
 weight: 1
 bookFlatSection: true
 ---
 
 # Introduction
 
-WTF
+General explanation here
