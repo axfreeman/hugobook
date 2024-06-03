@@ -12,7 +12,7 @@
       <link>//localhost:1313/docs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/docs/shortcodes/buttons/</guid>
-      <description>Buttons&#xD;#&#xD;What the icons mean&#xA;Example&#xD;#&#xD;An image an icon</description>
+      <description>Buttons&#xD;#&#xD;What the icons mean&#xA;Example&#xD;#&#xD;{{ $html := &amp;ldquo;&#xA;{{ $html | safeHTML }}&#xA;An image @icn-camera&#xA;{{ $html2:=&amp;quot;&amp;rdquo; }} {{ &amp;ldquo;&amp;rdquo; | safeHTML }}</description>
     </item>
   </channel>
 </rss>

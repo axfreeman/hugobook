@@ -1,16 +1,12 @@
-# Buttons
+# The Menu
 
 What the icons mean
 
 ## Example
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
-
-<script src="https://kit.fontawesome.com/4626f30439.js" crossorigin="anonymous"></script>
-
 ```tpl
 An image
 ```
-<i class="fa-solid fa-user"></i>
-
+{{ $html2:="<i class="fas fa-ellipsis-h" ><i>" }}
+{{ "<i class="fas fa-ellipsis-h" ><i>" | safeHTML }}
  
