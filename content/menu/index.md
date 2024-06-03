@@ -1,7 +1,7 @@
 ---
 headless: true
 ---
-
+Some Menu Text
 - [**Get Started**]({{< relref "/docs/example/start" >}})
 - [**How to play**]({{< relref "/docs/example/run" >}})
 - [**How to view**]({{< relref "/docs/example/view" >}})
@@ -9,5 +9,5 @@ headless: true
 - [**Overall Introduction**]({{< relref "/docs/example" >}})
 <br />
 
-- **Shirtcodes**
+- **Icons**
 <br />

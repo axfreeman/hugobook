@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/example/run/</loc>
+    <loc>//localhost:1313/docs/icons/bars/</loc>
   </url><url>
     <loc>//localhost:1313/docs/example/start/</loc>
   </url><url>
@@ -11,6 +11,8 @@
     <loc>//localhost:1313/docs/example/view/</loc>
   </url><url>
     <loc>//localhost:1313/docs/example/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/example/run/</loc>
   </url><url>
     <loc>//localhost:1313/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -63,8 +65,6 @@
     <loc>//localhost:1313/docs/example/hidden/</loc>
   </url><url>
     <loc>//localhost:1313/docs/icons/</loc>
-  </url><url>
-    <loc>//localhost:1313/docs/icons/buttons/</loc>
   </url><url>
     <loc>//localhost:1313/docs/</loc>
   </url>
