@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/icons/bars/</loc>
+    <loc>//localhost:1313/docs/icons/bars/bars/</loc>
   </url><url>
     <loc>//localhost:1313/docs/example/start/</loc>
   </url><url>
@@ -64,7 +64,7 @@
   </url><url>
     <loc>//localhost:1313/docs/example/hidden/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/icons/</loc>
+    <loc>//localhost:1313/docs/icons/bars/</loc>
   </url><url>
     <loc>//localhost:1313/docs/</loc>
   </url>
